@@ -50,14 +50,6 @@ A comparative study of model-free reinforcement learning controllers (PPO, DDPG,
 - Outlier analysis
 
 ### Supervised Learning
-- Linear Regression
-- Decision Trees
-- Random Forest
-- Classification
-- Model evaluation
-- Cross-validation
-- Performance metrics
-
 - Regression algorithms (Linear Regression)
 - Classification algorithms (Logistic Regression, K-Nearest Neighbors, Decision Trees, Random Forest, SVM, Gradient Boosting)
 - Data preprocessing and encoding (label/one-hot encoding, scaling)
