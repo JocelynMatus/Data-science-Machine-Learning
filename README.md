@@ -105,7 +105,7 @@ A comparative study of model-free reinforcement learning controllers (PPO, DDPG,
 
 ## Repository Structure
 ```text
-data-science-course-projects/
+data-science-Machine-Learning/
 │
 ├── 01-statistical-inference/
 ├── 02-data-exploration/
