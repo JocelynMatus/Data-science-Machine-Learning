@@ -109,6 +109,8 @@ data-science-Machine-Learning/
 │
 ├── 01-statistical-inference/
 ├── 02-data-exploration/
+    ├── 06.videojuegos.csv
+    └── data-exploration-seaborn-matplotlib-eda.ipynb
 ├── 03-data-preprocessing/
 ├── 04-supervised-learning/
 ├── 05-unsupervised-learning/
@@ -118,6 +120,7 @@ data-science-Machine-Learning/
 ├── 09-neural-networks/
 ├── 10-convolutional-neural-networks/
 ├── 11-big-data/
+├── P1-final-ipynb(en proceso)
 │
 └── README.md
 ```
